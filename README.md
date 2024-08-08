@@ -8,6 +8,22 @@
 
 I'm a passionate developer who loves creating innovative solutions and exploring new technologies. My goal is to build user-friendly applications that make a positive impact on people's lives.
 
+
+
+## 📊 GitHub Stats
+
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Santiago11234&show_icons=true&theme=tokyonight" alt="GitHub Stats">
+</div>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Santiago11234&theme=tokyonight" alt="mystreak"/>
+</p>
+
+
+
+
 ## 🛠️ Technologies & Tools
 
 
@@ -18,6 +34,7 @@ I'm a passionate developer who loves creating innovative solutions and exploring
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
     <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
   <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB">
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white">
     <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white">
@@ -38,19 +55,9 @@ I'm a passionate developer who loves creating innovative solutions and exploring
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
 <img src="https://img.shields.io/badge/JetBrains-000000?style=for-the-badge&logo=jetbrains&logoColor=white">
 
+<img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=machine-learning&logoColor=white">
+
 </p>
-
-## 📊 GitHub Stats
-
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Santiago11234&show_icons=true&theme=tokyonight" alt="GitHub Stats">
-</div>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Santiago11234&theme=tokyonight" alt="mystreak"/>
-</p>
-
 
 ## 📫 Let's Connect
 
